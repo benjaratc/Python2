@@ -1,6 +1,6 @@
-# Data Camp 2 
+# Python Part 2
 
-Python Part 2
+Data Camp 2
 
 Benjarat Chavanabutvilai 
 
